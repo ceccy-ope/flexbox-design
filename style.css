@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: black;
+    width: 100%;
+  
+    
+    
+    
+}
+main{
+    background-color: white;
+    width: 65%;
+    margin: auto;
+    margin-top: 80px;
+    height: 490px;
+       
+}
+
+.cont{
+    display: flex;
+    width: 65%;
+height: 300px;
+padding: 5px;
+margin: auto;
+padding-top: 100px;
+
+
+
+}
+
+.fir{
+   
+background-color: rgb(226, 133,37);
+justify-content: center;
+height: 300px;
+margin-left: 14px;
+
+
+}
+
+.sec {
+    background-color: rgb(1, 105, 114);
+    height: 300px;
+}
+
+.thi {
+    background-color: rgb(0, 64, 63);
+    height: 300px;
+}
+p{
+    padding: 10px;
+    font-size: 12px;
+    color: white;
+    width: 70%;
+    margin-left: 25px;
+    margin-bottom: 50px;
+ 
+}
+h2{ 
+   padding: 5px;
+   color: white;
+    margin-left: 25px;
+}
+.but{
+    margin: 25px;
+   margin-top: 150px;
+    margin-left: 35px;
+    padding: 10px 17px;
+    border: 1px solid white;
+    border-radius: 30px;
+    font-size: 10px;
+    color: white;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    }
+.but:hover {
+    color: white;
+    background: white;
+}
+.but1:hover {
+    color: rgb(226, 133, 37);
+}
+
+.but2:hover {
+    color: rgb(1, 105, 114);
+}
+
+.but3:hover {
+    color: rgb(0, 64, 63);
+}
+
+
+
+img{
+    padding: 20px;
+  width: 35px;
+margin-left: 15px;
+    
+}
